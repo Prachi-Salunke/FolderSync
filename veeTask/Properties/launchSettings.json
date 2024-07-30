@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "veeTask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Prachi_softwaresAndJars\\VeeTask\\Source_Folder\" \"D:\\Prachi_softwaresAndJars\\VeeTask\\Replica_Folder\" 60 \"D:\\Prachi_softwaresAndJars\\VeeTask\\Log_File.txt\""
+    }
+  }
+}

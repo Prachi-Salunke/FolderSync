@@ -1,0 +1,14 @@
+C:\Users\prana\source\repos\VeeTaskSync\bin\Debug\net8.0\VeeTaskSync.exe
+C:\Users\prana\source\repos\VeeTaskSync\bin\Debug\net8.0\VeeTaskSync.deps.json
+C:\Users\prana\source\repos\VeeTaskSync\bin\Debug\net8.0\VeeTaskSync.runtimeconfig.json
+C:\Users\prana\source\repos\VeeTaskSync\bin\Debug\net8.0\VeeTaskSync.dll
+C:\Users\prana\source\repos\VeeTaskSync\bin\Debug\net8.0\VeeTaskSync.pdb
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.AssemblyInfoInputs.cache
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.AssemblyInfo.cs
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.dll
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\refint\VeeTaskSync.dll
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.pdb
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\VeeTaskSync.genruntimeconfig.cache
+C:\Users\prana\source\repos\VeeTaskSync\obj\Debug\net8.0\ref\VeeTaskSync.dll
